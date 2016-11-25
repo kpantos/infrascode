@@ -6,13 +6,13 @@
       "value": "ahmeetupdemo"
     },
     "vmName": {
-      "value": "ah-web1"
+      "value": "ahweb1"
     },
     "adminUserName": {
       "value": "hostadmin"
     },
     "dnsName": {
-      "value": "ah-meetup"
+      "value": "ahmeetup"
     },
     "vmSize": {
       "value": "Standard_A3"
@@ -27,10 +27,10 @@
       "value": "ConfigureWebServer.ps1\\Main"
     },
     "DatabaseServerName": {
-      "value": "ah-meetup-db"
+      "value": "ahmeetupdb"
     },
     "DatabaseServerLocation": {
-      "value": "NorthEurope"
+      "value": "North Europe"
     },
     "databaseServerAdminLogin": {
       "value": "hostadmin"
