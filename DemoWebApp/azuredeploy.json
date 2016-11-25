@@ -353,7 +353,8 @@
           },
           "properties": {
             "collation": "[parameters('databaseCollation')]",
-            "edition": "[parameters('databaseEdition')]",
+            "edition": "Standard",
+            "requestedServiceObjectiveName": "S1",
             "maxSizeBytes": "1073741824"
           }
         }
